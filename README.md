@@ -132,8 +132,11 @@ This project is being developed as an academic software project to explore web a
 
 ## Contributors
 
-Add the names of the project team members here.
-
+S. Raajvee 
+Mohitha Shruthi.B
+Afsinaa Fathima.A
+S.Naga Sri Lasya
+Samiksha
 ---
 
 *Digital Platform for Direct Market Access for Farmers — connecting farmers and buyers through technology.*
