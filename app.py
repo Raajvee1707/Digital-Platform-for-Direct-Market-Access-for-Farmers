@@ -6,9 +6,9 @@ app = Flask(__name__)
 
 def get_connection():
     return oracledb.connect(
-        user="FARM_PROJECT",
-        password="FarmerDB_2026!",
-        dsn="localhost:1521/FREEPDB1"
+        user="USERNAME",
+        password="your password",
+        dsn="pathOfContainer"
     )
 
 @app.route("/")
